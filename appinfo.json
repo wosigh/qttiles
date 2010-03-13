@@ -1,0 +1,9 @@
+{
+	"title":    "Qt Tiles",
+	"type":     "web",
+	"main":     "start.sh",
+	"id":       "net.griffin.qttiles",
+	"vendor":   "griffin.net",
+        "version":  "4.6.2",
+        "icon":     "icon.png"
+}
